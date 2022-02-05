@@ -1,0 +1,78 @@
+/* ====ШРИФТ===== */
+@import url("https://fonts.googleapis.com/css2?family=Quintessential&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+/* ======СТИЛИ===== */
+
+header {
+   max-width: 80%;
+   text-align: center;
+   margin: 0 auto;
+   margin-bottom: 50px;
+}
+.link {
+   margin-bottom: 50px;
+}
+.link ul li {
+   display: inline;
+   margin-right: 15px;
+   color: darkblue;
+   font-size: 25px;
+   font-weight: 600;
+}
+h1 {
+   font-family: "Quintessential", cursive;
+   font-size: 50px;
+   color: blueviolet;
+}
+p {
+   font-family: "Pacifico", cursive;
+}
+.logo {
+   margin-bottom: 25px;
+}
+.home a {
+   font-family: "Quintessential", cursive;
+   font-size: 50px;
+   text-transform: uppercase;
+}
+
+.block1 {
+   max-width: 60%;
+   margin-bottom: 50px;
+   padding: 25px;
+}
+.block1 span {
+   display: block;
+   color: crimson;
+   font-size: 25px;
+}
+.block1 img {
+   max-width: 50%;
+}
+h2 {
+   font-size: 50px;
+   font-weight: 700;
+   color: coral;
+   font-family: "Inconsolata", monospace;
+}
+.block2 {
+   max-width: 30%;
+   max-height: 400px;
+   overflow: scroll;
+   margin: 0px 0px 20px 70%;
+   padding: 50px 40px;
+}
+.block2 img {
+   width: 100%;
+}
+.block3 {
+   width: 500px;
+   margin-bottom: 50px;
+}
+.contact {
+   text-align: center;
+}
+.contact img {
+   padding-right: 50px;
+}
